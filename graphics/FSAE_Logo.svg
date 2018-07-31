@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="FSAE_Logo.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4583"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#e50000;stroke-width:1pt;stroke-opacity:1;fill:#e50000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4858"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4856"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#e50000;stroke-width:1pt;stroke-opacity:1;fill:#e50000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4574"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#e50000;stroke-width:1pt;stroke-opacity:1;fill:#e50000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="60.792374"
+     inkscape:cy="61.02745"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g5046"
+       transform="translate(-4.0631576,4.1576809)"
+       inkscape:export-xdpi="108.37277"
+       inkscape:export-ydpi="108.37277">
+      <circle
+         r="0"
+         style="fill:none;stroke:#e50000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+         cy="277.94269"
+         cx="19.04059"
+         id="path3699-3" />
+      <circle
+         transform="rotate(-28.73541)"
+         r="14.404537"
+         style="fill:none;stroke:#c80000;stroke-width:1.19099998;stroke-miterlimit:4;stroke-dasharray:3.573, 1.191;stroke-dashoffset:0;stroke-opacity:1"
+         cy="252.7907"
+         cx="-116.86138"
+         id="path3699-3-6" />
+      <circle
+         r="12.003317"
+         transform="rotate(-76.254919)"
+         style="fill:none;stroke:#c80000;stroke-width:0.99246162;stroke-miterlimit:4;stroke-dasharray:2.97738491, 0.99246164;stroke-dashoffset:0;stroke-opacity:1"
+         cy="84.504738"
+         cx="-265.41107"
+         id="path3699-3-6-5" />
+      <circle
+         r="9.6013622"
+         transform="rotate(-76.254919)"
+         style="fill:none;fill-opacity:1;stroke:#c80000;stroke-width:0.79386246;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cy="84.404213"
+         cx="-265.31125"
+         id="path3699-3-6-5-3" />
+    </g>
+  </g>
+</svg>
