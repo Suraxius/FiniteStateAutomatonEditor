@@ -20,7 +20,7 @@ class TopMenu extends MenuBar
     private MenuItem dfsaToNfsa        = new MenuItem("Convert to NFSA");
     private MenuItem showDocumentation = new MenuItem("Show Documentation");
 
-    public TopMenu() {
+    public TopMenu(Context.ContextHandler contextHandler) {
         super();
 
         fileSave.setDisable(true);

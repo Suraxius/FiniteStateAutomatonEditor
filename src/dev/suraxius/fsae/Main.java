@@ -1,16 +1,21 @@
 package dev.suraxius.fsae;
 
+import java.util.ArrayList;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.layout.BorderPane;
 import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 
 public class Main extends Application
 {
+    private Context.ContextHandler contextHandler = new Context.ContextHandler();
+
     public static void main(String[] args)
     {
         launch(args);
@@ -22,10 +27,14 @@ public class Main extends Application
         stage.getIcons().add(new Image("file:graphics/icon.png"));
         stage.setTitle( "Finite State Automaton Editor" );
 
+        //Add test contexts:
+        contextHandler.addContext(new Context());
+        contextHandler.addContext(new Context());
+
         //Add UI Elements:
         BorderPane root       = new BorderPane();
-        TopMenu topMenu       = new TopMenu();
-        EditorPane editorPane = new EditorPane();
+        TopMenu topMenu       = new TopMenu(contextHandler);
+        EditorPane editorPane = new EditorPane(contextHandler);
         root.setTop(topMenu);
         root.setCenter(editorPane);
         
@@ -45,4 +54,6 @@ public class Main extends Application
         stage.setScene(new Scene(root, 900, 600));
         stage.show();
     }
+
+    
 }
